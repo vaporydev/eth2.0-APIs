@@ -1,4 +1,4 @@
-# Ethereum 2.0 APIs
+# Vapory 2.0 APIs
 
 ![CI](https://github.com/ethereum/eth2.0-APIs/workflows/CI/badge.svg)
 
